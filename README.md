@@ -86,13 +86,3 @@ This project helped in:
 This project successfully demonstrated predictive modeling using the Random Forest algorithm on a Student Performance dataset.
 
 The model was trained to predict student pass/fail outcomes based on multiple student-related features. Performance evaluation using accuracy score, confusion matrix, classification report, and ROC curve showed the effectiveness of supervised learning techniques in predictive analytics.
-
-
-## Files Included
-
-Predictive_Modeling_Project/
-│
-├── Predictive_Modeling.ipynb
-├── Student_Performance_Dataset.csv
-├── README.md
-└── LICENSE
